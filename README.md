@@ -33,6 +33,7 @@ for model data changes for rendering purpose. So the architecture is around MVVM
 ## Uses NYTimes API for fetching newsfeed
 
 API Docs: https://developer.nytimes.com/apis
+<br>
 Uses https://api.nytimes.com/svc/mostpopular/v2/viewed/1.json?api-key=  API as network end points.
 
 <br>
@@ -44,6 +45,7 @@ Uses https://api.nytimes.com/svc/mostpopular/v2/viewed/1.json?api-key=  API as n
 - Create latest AVD and run the project
 
 <br>
+
 ## Run through Terminal
 
 For Build creation
@@ -54,9 +56,9 @@ To Build & Run
 adb install app/build/outputs/apk/dev/debug/app-dev-debug.apk
 
 <br>
+
 ## Demo
 
 ![](demo.gif)
 
 
-# Clean Code Assessment
